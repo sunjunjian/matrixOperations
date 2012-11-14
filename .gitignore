@@ -1,0 +1,12 @@
+# C++
+.o
+main
+
+# Java
+.project
+Java/bin/*
+Java/resource/*
+
+# data input file
+inputFiles/*
+
