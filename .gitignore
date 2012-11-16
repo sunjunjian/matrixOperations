@@ -6,6 +6,7 @@ main
 .project
 Java/bin/*
 Java/resource/*
+Java/.classpath
 
 # data input file
 inputFiles/*
