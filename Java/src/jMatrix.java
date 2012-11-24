@@ -1,8 +1,7 @@
 /**  	jMatrix.java --- uses 2-D arrays to create matrix objects
- 		demonstrating how matrix arithmetic operations work.
-
-		...... @author junjiansun ......
-
+ *		demonstrating how matrix arithmetic operations work.
+ *
+ *			- Sam Sun <sunjunjian@gmail.com>, 2012
  */
 
 

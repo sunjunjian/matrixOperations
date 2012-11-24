@@ -1,3 +1,10 @@
+/*
+ *	Matrix operations
+ *
+ *		- Sam Sun <sunjunjian@gmail.com>, 2012
+ */
+
+
 #include "loadMatrix.h"
 #include "multiplicationAlg.h"
 #include "jMatrix.h"

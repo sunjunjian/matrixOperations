@@ -1,10 +1,16 @@
+/*
+ *	Matrix operations
+ *
+ *		- Sam Sun <sunjunjian@gmail.com>, 2012
+ */
+
 public class matrixProduct {
 	public static void main(String[] args) {
-		String fileNameA = "resource/a_8x8.in";
-		jMatrix	matrixA = new	jMatrix(fileNameA);
+		final static String FILE_NAME_A = "resource/a_8x8.in";
+		jMatrix	matrixA = new	jMatrix(FILE_NAME_A);
 		
-		String fileNameB = "resource/b_8x8.in";
-		jMatrix	matrixB = new	jMatrix(fileNameB);
+		final static String FILE_NAME_B = "resource/b_8x8.in";
+		jMatrix	matrixB = new	jMatrix(FILE_NAME_B);
 		
 		
 		System.out.println();

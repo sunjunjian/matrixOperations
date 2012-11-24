@@ -6,6 +6,8 @@
 #	1.a 	Multiplication can be done by the naive algorithm - ijk iterations.
 #	1.b 	With the beauty of python language, the triple loops can be replaced by a single line.
 #	2.   	A better appraoch is to use numpy/scipy packages.
+#
+#									- Sam Sun <sunjunjian@gmail.com>, 2012
 
 
 import numpy as np
