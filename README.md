@@ -20,12 +20,31 @@ A * B = 1*5+2*7   1*6+2*8
 
 
 This Repository
-=================
+===============
 
 I would like to demonstrates how to implement the basic matrix operations in C++, Java and Python. The purpose is quite straight forward - I would like to study how these languages manipulate objects, 2-D arrays and what their efficiencies and programmabilities are. 
 
 
 
-Other Thoughts
-==============
-I should include some other languages when I have spare time to teach myself Ruby and C#.
+My Experience
+=============
+This is not intended to be a face-off between these languages, since that would be mission-impossible IV. It's more of a personal perspecive, and nothing else.
+
+<table>
+  <tr>
+    <th>Language</th><th>Easy to understand<th>Easy to use</th><th>Speed</th><th>IDE</th>
+  </tr>
+  <tr>
+    <td>C++</td><td>★</td><td>★★</td><td>★★★</td><td>★★★</td>
+  </tr>
+  <tr>
+    <td>Java</td><td>★★</td><td>★★★</td><td>★★</td><td>★★★</td>
+  </tr>
+  <tr>
+    <td>Python</td><td>★★★</td><td>★★★</td><td>★★</td><td>★★★</td>
+  </tr>  
+</table>
+
+
+
+
